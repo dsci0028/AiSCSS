@@ -1,8 +1,4 @@
-/* Modify text font-size and alignment */
-.google-visualization-table-table {
-	width:100%;
-	text-align:right;
-	font-size:12pt!important;
+
 }
 /* Center All Filters */
 
@@ -22,5 +18,5 @@
 
 /* Apply the new font */
 body, td, div, span, p {
-  font-family: "titling-gothic-condensed"!important;
+  font-family: 'Lato', sans-serif;!important;
 }
